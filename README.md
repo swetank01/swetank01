@@ -1,4 +1,4 @@
-### HELLO WORLD * 👋
+### HELLO WORLD 🙏 (Namaste)
 
 #### About :
 
