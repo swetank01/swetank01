@@ -2,10 +2,10 @@
 
 #### About :
 
-- 🔭 I’m currently working on  ITneer💻 
-- 🌱 I’m currently learning DevSecOps👮🏻‍  Serverless🌨  GO🏆 
-- 👯 I’m looking to collaborate on OpenSource📖 & SaaS Based Product🚀 
-- 🤔 I’m looking for help with Devops♾
+- 🔭 I’m currently working on  9Hertz💻 
+- 🌱 I’m currently learning Python🐍 Sys-Architecure🏛 DevSecOps👮🏻‍ Serverless🌨  GO🏆 
+- 👯 I’m looking to collaborate on OpenSource📖 & Create Small SaaS Based Product🚀 
+- 🤔 I’m looking for help with Any Tech
 - 💬 Ask me about **Future**🌕
 - 📫 How to reach me: [swetank01](https://www.linkedin.com/in/swetanksoni01/)
 - 😄 Pronouns: Sh-way-tank
