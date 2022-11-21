@@ -2,7 +2,7 @@
 
 #### About :
 
-- 🔭 I’m currently working on  9Hertz💻 
+- 🔭 I’m currently working for 9Hertz💻 
 - 🌱 I’m currently learning Python🐍 Sys-Architecure🏛 DevSecOps👮🏻‍ Serverless🌨  GO🏆 
 - 👯 I’m looking to collaborate on OpenSource📖 & Create Small SaaS Based Product🚀 
 - 🤔 I’m looking for help with Any Tech
