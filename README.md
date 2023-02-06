@@ -8,6 +8,6 @@
 - 🤔 I’m looking for help with Any Tech
 - 💬 Ask me about **Future**🌕
 - 📫 How to reach me: [swetank01](https://www.linkedin.com/in/swetanksoni01/)
-- 😄 Pronouns: Sh-way-tank
+- 😄 Pronouns: Sh-way-taank
 - ⚡ Fun fact: The end is the beginning, and the beginning is the end === **DEVOPS**
 - 🗣 Qoute : Everything Is Connected - DARK
