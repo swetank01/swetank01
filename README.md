@@ -12,4 +12,3 @@
 - ⚡ Fun fact: The end is the beginning, and the beginning is the end === **DEVOPS**
 - 🗣 Qoute : Everything Is Connected - DARK
 
-[![Swetank's GitHub stats](https://github-readme-stats.vercel.app/api?username=swetank01&show_icons=true&theme=radical)](https://github.com/swetank01/github-readme-stats)
